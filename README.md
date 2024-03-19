@@ -2,6 +2,10 @@
 
 ![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_3.png)
 
+![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_4.png)
+
+![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_5.png)
+
 ## Ferramentas utilizadas:
 
 * HTML
